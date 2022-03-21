@@ -33,7 +33,7 @@ We also include some examples to illustrate the algorithm's usage.
 
 ## 4. MOBILE GENETIC ELEMENTS PREDICTION
 
-Here we describe all the prediction tools we used to detect MGE (prophages, genomic island and insertion sequences) as well as the steps we took to integrate the mobilome.
+Here we describe all the prediction tools we used to detect MGE (prophages, genomic islands and insertion sequences) as well as the steps we took to integrate the mobilome.
 
 ---
 
