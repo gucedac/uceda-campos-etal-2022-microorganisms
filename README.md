@@ -47,7 +47,7 @@ Here we describe all the prediction tools we used to detect anti-MGE defense sys
 
 If you find any of the describe pipelines useful in your research, please cite the following reference according to the scripts you use:
 
-- Uceda-Campos, G., Feitosa-Junior, O.R., Santiago, C. R. N., Pierry, P.M., Zaini, P.A., de Santana, W.O., Mar-tins-Jr, J., Barbosa, D., Digiampietri, L. A., Setubal, J.C., da Silva, A.M. Comparative genomics of Xylella fastidiosa explores determinants of host-specificity and expands its mobile genetic elements repertoire Microorganisms 2022, 10, x. https://doi.org/10.3390/xxxxx (under peer review).
+- Uceda-Campos, G., Feitosa-Junior, O.R., Santiago, C. R. N., Pierry, P.M., Zaini, P.A., de Santana, W.O., Mar-tins-Jr, J., Barbosa, D., Digiampietri, L. A., Setubal, J.C., da Silva, A.M. Comparative genomics of <i>Xylella fastidiosa</i> explores determinants of host-specificity and expands its mobile genetic elements repertoire Microorganisms 2022, 10, x. https://doi.org/10.3390/xxxxx (under peer review).
 
 ---
 
