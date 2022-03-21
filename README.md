@@ -1,6 +1,6 @@
 # **Pipelines @ Comparative genomics of <i>Xylella fastidiosa</i> explores determinants of host-specificity and expands its mobile genetic elements repertoire and defense systems.**
 
-At these following pages we present 5 pipelines of analysis that are present at the paper of MDPI microorganisms' paper of Uceda et al. 2022.
+At these following pages we present 5 pipelines of analysis that are present at the MDPI microorganisms' paper of Uceda et al. 2022.
 
 ---
 
